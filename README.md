@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Melquisedeque-Marins
+- 👋 Hi, I’m @Melquisedeque Marins
 - 👀 I’m interested in adding and sharing knowledge, as well as entering the job market.
 - 🌱 I’m currently learning to develop in java and spring boot.
 - 💞️ I’m looking to collaborate on ...
