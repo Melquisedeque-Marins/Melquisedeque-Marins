@@ -1,7 +1,7 @@
-## 👋 Hi, I'm Melquisedeque!
+## 👋 Hi, I'm [Melquisedeque!](https://www.linkedin.com/in/melquisedeque-marins-junior-324291230)
 
 I'm a Java back-end developer and enthusiast of front-end development. 
-Currently, I'm having studying microservices and to develop my app MCK-Clinic to improve my abilities and test my capacity as a developer.
+Currently, I'm having studying microservices and to develop my app [MCK-Clinic](https://github.com/Melquisedeque-Marins/MCK-Clinic-Thymeleaf/tree/main/) to improve my abilities and test my capacity as a developer.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melquisedeque-marins-junior-324291230)
 
