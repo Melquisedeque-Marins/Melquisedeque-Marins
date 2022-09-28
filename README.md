@@ -1,4 +1,4 @@
-## 👋 Hi, I'm melquisedeque!
+## 👋 Hi, I'm Melquisedeque!
 
 I'm a Java back-end developer and enthusiast of front-end development. 
 Currently, I'm having studying microservices and to develop my app MCK-Clinic to improve my abilities and test my capacity as a developer.
