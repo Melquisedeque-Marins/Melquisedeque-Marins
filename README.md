@@ -7,7 +7,7 @@ Currently, I'm having studying microservices and to develop my app [MCK-Clinic](
 
 ![Melquisedeque GitHub stats](https://github-readme-stats.vercel.app/api?username=Melquisedeque-Marins&show_icons=true&theme=tokyonight)  
 
-### Tecnologias que utilizo nos meus projetos:
+### Technologies I use in my projects.
 <div style="display: inline_block"><br/>
   <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Spring boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
